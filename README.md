@@ -1,7 +1,7 @@
 # Modern-Personal-Portfolio-Website-HTML-CSS
 How to make personal website using html and css.  
 
-How to make personal website using html and css.
+How to make Portfolio website using html and css.
 
 in this video i'm going to show you how to build this nice Emma's personal website
 
